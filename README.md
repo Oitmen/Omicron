@@ -1,4 +1,4 @@
-# Omikron
+# Beispiele
 
 Hier sind ein paar Beispiele meiner bisherigen Arbeit.
 
